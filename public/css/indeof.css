@@ -20,16 +20,25 @@
 }
 .my_small{
     font-size:1.5rem;
+    text-decoration:none;
     color:#864422;
 }
+.my_fsmall{
+    font-size:1rem;
+    text-decoration:none;
+    color:#864422;
+}
+.my_fsmall:hover{text-decoration:none;}
+/* a:hover{text-decoration:none;} */
 .my_lbx{line-height:1.5rem;}
-.my_in_width{width:98%;}
+.my_lbx0{line-height:2rem;}
+.my_in_width{width:96%;}
 .my_arrow{
     background:transparent;
 
 }
-.carousel-control-prev{left:1rem;}
-.carousel-control-next{right:1rem;}
+.carousel-control-prev{left:1.5rem;}
+.carousel-control-next{right:1.5rem;}
 
 .my_gray{
     color:#808080;}
